@@ -120,36 +120,6 @@ I solve coding challenges over coffee and believe that the best code is the one 
 
 ---
 
-## 📈 Professional Experience
-
-### 💼 **Senior Full Stack Developer** | TechCorp Solutions
-*Jan 2023 - Present*
-- 🎯 Lead development of enterprise web applications serving 10K+ users
-- 📈 Improved application performance by 40% through code optimization
-- 🛠️ **Technologies:** `React` `Node.js` `PostgreSQL` `AWS` `Docker`
-
-### 💼 **Full Stack Developer** | Digital Innovations
-*Jun 2021 - Dec 2022*
-- 🎯 Developed and maintained 15+ client projects using modern tech stack
-- 📈 Reduced deployment time by 60% implementing CI/CD pipelines
-- 🛠️ **Technologies:** `Vue.js` `Django` `MongoDB` `GitLab CI`
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 **Bachelor of Science in Computer Science** | University Name
-*2021*
-- **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering
-- **Projects:** Led team of 4 in developing university management system
-
-### 📜 **Professional Certifications**
-- 🏆 **AWS Certified Developer Associate** - Amazon Web Services (2023)
-- 🏆 **MongoDB Developer Certification** - MongoDB Inc. (2022)
-- 🏆 **React Professional Certificate** - Meta (2022)
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
