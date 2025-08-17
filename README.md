@@ -39,8 +39,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: kamrul.hasan.cse@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamrul-hasan-pciu)  
+- 📧 Email: kamrulkhan526785@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamrulhasan7/)  
 - 🌐 [Portfolio Website (Coming Soon)]()
 
 ---
