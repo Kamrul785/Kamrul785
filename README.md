@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Kamrul 
-## Professional Software Developer | Full Stack Engineer
+## Professional Software Engineer | Full Stack Developer
 
 <p>
   <a href="https://linkedin.com/in/kamrul-profile">
