@@ -154,7 +154,7 @@ AI-powered crop disease detection for **14M+ farmers**. Image-based diagnosis vi
 **Stack:** `Next.js` `TypeScript` `Gemini 2.5` `Clerk` `Twilio`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Kamrul785)
-[![Live](https://img.shields.io/badge/Live_Demo-4299e1?style=flat-square&logo=vercel)](https://kamrulhasan-henna.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-4299e1?style=flat-square&logo=vercel)](https://krishok-bhai.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -168,6 +168,7 @@ Complete e-commerce system: product catalog, cart, real-time order management, S
 
 [![Server](https://img.shields.io/badge/Server-181717?style=flat-square&logo=github)](https://github.com/Kamrul785)
 [![Client](https://img.shields.io/badge/Client-181717?style=flat-square&logo=github)](https://github.com/Kamrul785)
+[![Live](https://img.shields.io/badge/Live_Demo-4299e1?style=flat-square&logo=vercel)](https://phi-mart-client-lemon.vercel.app/)
 
 </td>
 </tr>
@@ -183,6 +184,7 @@ Role-based marketplace (Tutor/Student) with JWT-protected APIs, session scheduli
 
 [![Server](https://img.shields.io/badge/Server-181717?style=flat-square&logo=github)](https://github.com/Kamrul785)
 [![Client](https://img.shields.io/badge/Client-181717?style=flat-square&logo=github)](https://github.com/Kamrul785)
+[![Live](https://img.shields.io/badge/Live_Demo-4299e1?style=flat-square&logo=vercel)](https://tuition-hub-client.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
